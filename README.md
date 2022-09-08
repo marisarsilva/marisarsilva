@@ -1,5 +1,7 @@
 - 👋 Olá! eu sou @marisarsilva
-- 🌱 Estou estudando Java Script, HTML, CSS, Node Js,  
+- 🌱 Estou estudando JavaScript, HTML, CSS, Node Js,etc...  
+
+
 
 
 <!---

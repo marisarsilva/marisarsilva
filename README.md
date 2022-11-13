@@ -8,8 +8,8 @@
 
 <div>
 
-  ![Marisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=marisarsilvazra&hide=contribs,prs)
-  
+  <a href="![Marisa's GitHub stats](https:github-readme-stats.vercel.app/api?username=marisarsilvazra&hide=contribs,prs)">
+
   
  [![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marisarsilva&layout=compact)](https://github.com/marisarsilva/github-readme-stats)
 

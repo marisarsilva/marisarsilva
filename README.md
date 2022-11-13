@@ -30,7 +30,8 @@
 </div>
 
 ##
-
-![Snake animation](https://github.com/marisarsilva/marisarsilva/blob/output/github-contribution-grid-snake.svg)
+<a> 
+    <img <img height="150em" src="https://github.com/marisarsilva/marisarsilva/blob/output/github-contribution-grid-snake.svg">
+</a>
 
 

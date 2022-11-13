@@ -11,7 +11,7 @@
     <img align= "center" height="150em" src="https://github-readme-stats.vercel.app/api?username=marisarsilva&langs_count=20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   
-  <a  href="https://github-readme-stats.vercel.app/api/marisarsilva?username=marisarsilva"><img align=" center" height="150em" src="https://githubcom/marisarsilva/github-readme-stats">
+  <a href="[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)">
   </a>
 
 

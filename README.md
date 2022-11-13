@@ -6,15 +6,21 @@
 - 📫 Contate-me no email: marisa.dev22@gmail.com
 - 😄 Pronouns: ela/dela
 
-<div style="display: inline_block">
-  <a  style= align="center"href="https://github.com/marisarsilva/convoychat">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marisarsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </a>
-  <a align="center" href="https://github.com/marisarsilva convoychat"> 
-     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisarsilva&layout=compact&repo=convoychat"/>
-  </a>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=marisarsilva&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=marisarsilva&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=marisarsilva&show_icons=true" />
+</picture>
 
-</div>
+
+
+
 
 <div style="display: inline_block" align="contente"><br>
   <img align="center" alt="Marisa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

@@ -10,6 +10,9 @@
   <a href="https://github.com/marisarsilva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marisarsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
+  ## linguagens que mais utilizo
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marisarsilva&layout=compact)](https://github.com/marisarsilva/github-readme-stats)
+
   
 </div>
 

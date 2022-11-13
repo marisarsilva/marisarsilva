@@ -8,12 +8,12 @@
 
 <div>
   <a  href="https://github.com/marisarsilva/convoychat">
-        <img align= "center" height="150em" src="https://github-readme-stats.vercel.app/api?username=marisarsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img align= "center" height="150em" src="https://github-readme-stats.vercel.app/api?username=marisarsilva&langs_count=20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </a>
   <a  href="https://github.com/marisarsilva convoychat"> 
      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisarsilva&layout=compact&repo=convoychat"/>
   </a>
-  
+  <a src="api/pin?username=marisarsilva&repo=github-readme-stats"></a>
 </div>
 
 <div style="display: inline_block"><br>

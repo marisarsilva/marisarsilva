@@ -6,11 +6,13 @@
 - 📫 Contate-me no email: marisa.dev22@gmail.com
 - 😄 Pronouns: ela/dela
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=marisarsilva&show_icons=true&theme=radical"
-  media="(prefers-color-scheme: radical)"
-/>
+
+<a href="htmarisarsilvatps://github.com//github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marisarsilva&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/marisarsilva/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marisarsilva&repo=convoychat" />
+</a>
 
 
 

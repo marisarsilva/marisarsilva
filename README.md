@@ -7,12 +7,13 @@
 - 😄 Pronouns: ela/dela
 
 <div>
-
-  <a href="![Marisa's GitHub stats](https:github-readme-stats.vercel.app/api?username=marisarsilvazra&hide=contribs,prs)">
-
+  <a  href="https://github.com/marisarsilva/convoychat">
+    <img align= "center" height="150em" src="https://github-readme-stats.vercel.app/api?username=marisarsilva&langs_count=20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
   
- [![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marisarsilva&layout=compact)](https://github.com/marisarsilva/github-readme-stats)
-
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=marisarsilva&layout=compact>
+ <img src="https://github.com/marisarsilva/github-readme-stats">
+ 
   
   
 </div>

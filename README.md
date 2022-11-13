@@ -11,7 +11,7 @@
         <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marisarsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </a>
   <a align="center" href="https://github.com/marisarsilva convoychat"> 
-     <img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisarsilva&layout=compact&repo=convoychat"/>
+     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisarsilva&layout=compact&repo=convoychat"/>
   </a>
 
 </div>

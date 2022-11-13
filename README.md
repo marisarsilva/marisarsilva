@@ -11,11 +11,11 @@
     <img align= "center" height="150em" src="https://github-readme-stats.vercel.app/api?username=marisarsilva&langs_count=20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <a href="https://github.com/marisarsilva/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marisarsilva&repo=github-readme-stats" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <a href="https://github.com/marisarsilva/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marisarsilva&repo=convoychat" />
 </a>
 
 

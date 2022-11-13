@@ -9,7 +9,7 @@
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=marisarsilva&show_icons=true&theme=ondark"
-  media="(prefers-color-scheme: ondeDark)"
+  media="(prefers-color-scheme: onDark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=marisarsilva&show_icons=true"

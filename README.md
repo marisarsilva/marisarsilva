@@ -7,13 +7,12 @@
 - 😄 Pronouns: ela/dela
 
 
-<a href="htmarisarsilvatps://github.com//github-readme-stats">
+<a href="https://github.com/marisarsilva/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marisarsilva&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/marisarsilva/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marisarsilva&repo=convoychat" />
 </a>
-
 
 
 

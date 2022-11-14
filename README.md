@@ -39,7 +39,7 @@
   <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 <a href="https://twitter.com/marisa_eu" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-marisa_eu-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-Marisa-Rodrigues-da-Silva-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/marisarsilva" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>

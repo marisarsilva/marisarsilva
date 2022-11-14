@@ -40,7 +40,7 @@
   <a href="https://twitter.com/marisa_eu" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=twitter" alt="twitter"/>  
   </a>
-  <a href="www.linkedin.com/in/marisa-rodrigues-da-silva-91723a70" target="_blank">
+  <a href="www.linkedin.com/in/marisa-rodrigues-da-silva" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://instagram.com/marisarsilva_mg" target="_blank">

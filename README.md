@@ -38,7 +38,7 @@
 <a href="https://codepen.io/marisarsilva" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://twitter.com/marisarsilva" target="_blank">
+<a href="https://twitter.com/marisa_eu" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/marisarsilva" target="_blank">

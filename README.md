@@ -9,7 +9,7 @@
 - 😄 Pronouns: ela/dela
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marisarsilva&color=yellow" alt="Visualizações do perfil" /> </p>
 
-##
+## ⚙️  GitHub Analytics
 
 <p align="esquerda">
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=marisarsilva&show_icons=true&theme=vision-friendly-dark" alt="marisarsilva's stats"/>
@@ -31,6 +31,8 @@
   <img align="center" alt="Marisa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
+
+![]()
 
 
 

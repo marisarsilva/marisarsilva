@@ -32,26 +32,26 @@
 
 
 ## Cotato
-<div>
+
 <p align="center" style="background:yellow">
-
-<a href="https://codepen.io/marisarsilva" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/marisa_eu" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/marisarsilva" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/marisarsilva_mg" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
- <a> <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=@marisa_eu&layout=wide&show_reply=off&show_retweet=off" />
+  <a href="https://codepen.io/marisarsilva" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=codepen" alt="codepen"/>
   </a>
+  <a href="https://twitter.com/marisa_eu" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  </a>
+  <a href="https://linkedin.com/in/marisarsilva" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="https://instagram.com/marisarsilva_mg" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=instagram" alt="instagram"/>
+  </a>
+</p>
+ 
 
-</div>
+ <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
+
+
 
 
 

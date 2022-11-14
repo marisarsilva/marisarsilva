@@ -41,7 +41,7 @@
    <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=twitter" alt="twitter"/>  
   </a>
   <a href="www.linkedin.com/in/marisa-rodrigues-da-silva-91723a70" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-marisa-silva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://instagram.com/marisarsilva_mg" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=instagram" alt="instagram"/>

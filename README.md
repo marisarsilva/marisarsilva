@@ -6,15 +6,20 @@
 - 📫 Contate-me no email: marisa.dev22@gmail.com
 - 😄 Pronouns: ela/dela
 
-<div>
-  <a  href="https://github.com/marisarsilva/convoychat">
-    <img align= "center" height="150em" src="https://github-readme-stats.vercel.app/api?username=marisarsilva&langs_count=20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
+##
+<div "display: inline_block" alingn="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=marisarsilva&theme=dark&langs_count=20"> 
+  <a href="https://github.com/amarisarsilva/github-readme-stats></a>
   
- <a href="[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marisarsilva&layout=compact)](https://github.com/marisarsilva/github-readme-stats)">
- 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisarsilva&theme=dark"></img>
+<a href="https://github.com/marisarsilva/github-readme-stats"></a>
+ <div>
+
+
   
-  
+
+
 </div>
 
 <div style="display: inline_block"><br>

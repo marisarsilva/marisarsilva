@@ -7,6 +7,7 @@
 - 🔭 Atualmento estou estudando, Java, JavaScript, HTML, CSS, NodeJs...
 - 📫 Contate-me no email: marisa.dev22@gmail.com
 - 😄 Pronouns: ela/dela
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marisarsilva&color=yellow" alt="Visualizações do perfil" /> </p>
 
 ##
 

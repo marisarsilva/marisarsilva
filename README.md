@@ -29,7 +29,10 @@
   <img align="center" alt="Marisa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
-## Contato
+
+
+## Cotato
+<div>
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
@@ -47,8 +50,7 @@
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
-
-<!--
+</div>
 
 
 

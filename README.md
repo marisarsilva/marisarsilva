@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" color="blue">
   <h1><strong> Olá! 👋 Eu sou Marisa Rodrigues da Silva!</strong> <h1>
 </div>
 

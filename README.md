@@ -44,7 +44,7 @@
 <a href="https://linkedin.com/in/marisarsilva" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/marisarsilva" target="_blank">
+<a href="https://instagram.com/marisarsilva_mg" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </a>

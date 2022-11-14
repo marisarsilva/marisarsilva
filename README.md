@@ -9,8 +9,8 @@
 ##
 
 <p align="esquerda">
-<img width="250em" src="https://github-readme-stats.vercel.app/api?username=marisarsilva&show_icons=true&theme=vision-friendly-dark" alt="marisarsilva's stats"/>
-<img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisarsilva&layout=compact&theme=vision-friendly-dark" alt="mais idiomas da marisarsilva" />
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=marisarsilva&show_icons=true&theme=vision-friendly-dark" alt="marisarsilva's stats"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisarsilva&layout=compact&theme=vision-friendly-dark" alt="mais idiomas da marisarsilva" />
 </p>
 -->
 

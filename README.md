@@ -35,16 +35,16 @@
 
 <p align="center" style="background:yellow">
   <a href="https://codepen.io/marisarsilva" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=codepen" alt="codepen"/>
+   <img align="center" src="https://img.shields.io/badge/-Codepen-05122A?style=flat&logo=codepen" alt="codepen"/>
   </a>
   <a href="https://twitter.com/marisa_eu" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=twitter" alt="twitter"/>  
+   <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
   </a>
   <a href="https://linkedin.com/in/marisa-rodrigues-da-silva-91723a70/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://instagram.com/marisarsilva_mg" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-marisarsilva-05122A?style=flat&logo=instagram" alt="instagram"/>
+    <img align="center" src="https://img.shields.io/badge/-Instagran-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
 </p>
 

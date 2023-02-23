@@ -3,8 +3,7 @@
   <h1><strong> Olá! 👋 Eu sou Marisa Rodrigues da Silva!</strong> <h1>
 </div>
 
-    ![image](https://user-images.githubusercontent.com/111452173/220912149-55015e03-fa5b-4f76-a786-05e0f8f910c5.png)
-
+    
     
 - 🔭 Atualmento estou estudando, Java, JavaScript, HTML, CSS, NodeJs...
 - 📫 Contate-me no email: marisa.dev22@gmail.com

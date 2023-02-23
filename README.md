@@ -3,7 +3,7 @@
   <h1><strong> Olá! 👋 Eu sou Marisa Rodrigues da Silva!</strong> <h1>
 </div>
 
-![Snake animation](https://github.com/rafaballerini2/marisarsilva/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marisarsilva/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
     
 - 🔭 Atualmento estou estudando, Java, JavaScript, HTML, CSS, NodeJs...
 - 📫 Contate-me no email: marisa.dev22@gmail.com
